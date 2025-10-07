@@ -4,7 +4,7 @@
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Node](https://img.shields.io/badge/node-%3E%3D12.0.0-brightgreen.svg)
 
-Ensure cross-browser compatibility for your web applications by scanning code for web platform features and checking their support using Google Baseline data.
+Ensures cross-browser compatibility for your web applications by scanning code for web platform features and checking their support using Google Baseline data.
 
 ##  Features
 
@@ -143,7 +143,7 @@ Open `compat-report.html` in your browser to see:
 - [Google Baseline](https://web.dev/baseline/)
 - [Can I Use](https://caniuse.com/)
 - [MDN Web Docs](https://developer.mozilla.org/)
-- [GitHub Repository](https://github.com/yourusername/baseguard)
+- [GitHub Repository](https://github.com/postleo/baseguard)
 
 ---
 
