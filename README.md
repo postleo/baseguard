@@ -138,12 +138,12 @@ Open `compat-report.html` in your browser to see:
 - Suggestions and documentation links
 
 
-## 🔗 Links
+Acknowledgments
 
-- [Google Baseline](https://web.dev/baseline/)
-- [Can I Use](https://caniuse.com/)
-- [MDN Web Docs](https://developer.mozilla.org/)
-- [GitHub Repository](https://github.com/postleo/baseguard)
+- Google Baseline Team - For creating the Baseline standard
+- Can I Use - For pioneering browser compatibility data
+- MDN Web Docs - For comprehensive web documentation
+- Open Source Community - For inspiration and support
 
 ---
 
